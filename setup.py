@@ -12,7 +12,7 @@ setup(
     author="superagi",
     author_email="mukunda@superagi.com",
     description="Python package for Superagi",
-    install_requires=["pydantic==1.10.8", "requests==2.31.0", "pytest==7.3.2"],
+    install_requires=["pydantic==1.10.13", "requests==2.32.0", "pytest==7.3.2"],
     long_description=long_description,
     long_description_content_type="text/markdown",
 )
